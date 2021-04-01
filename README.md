@@ -2,6 +2,8 @@
 
 Just try out the git thing and enjoy gitting!
 
+
+Example on adding images: -->
 Here is a cute dolphin:
 
 ![A cute dolphi](cute-dolphin.jpeg)
